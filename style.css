@@ -7,6 +7,28 @@
 
         #nome {
             font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+            text-align: center;
+        }
+
+        #descricao {
+            float: right;
+            width: 450px;
+            margin-top: 215px;
+            margin-right: 56%;
+            
+        }
+
+        .bordas {
+            padding: 5px;
+            margin-bottom: 10px;
+            background-color: teal;
+            max-width: 220px;
+        }
+        
+        #perfil {
+            width: 200px;
+            padding: 20px;
+            background-color: teal;
         }
 
         .destaque {
@@ -16,6 +38,9 @@
 
        .determinado {
             font-size: 14px;
+            background-color: turquoise;
+            max-width: 110px;
+            color: yellow;
        }   
 
        .estudioso {
@@ -24,6 +49,10 @@
                
        .paciente {
             font-size: 16px;
+            background-color: turquoise;
+            max-width: 110px;
+            padding-right: 15px;
+            color: yellow   ;
        }
 
        .esforcado {
