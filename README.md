@@ -1,10 +1,10 @@
-> # React project for portfolio page.
+> ## React project for portfolio page.
 
-- ### `Page for contact information, basic exhibition and project direction. `
+-  Page for contact information, basic exhibition and project direction.
 
 ---
 
-> # Technologies used 
+> ## Technologies used 
 
-- ## REACT
-- ## JavaScript
+-  REACT
+-  JavaScript
