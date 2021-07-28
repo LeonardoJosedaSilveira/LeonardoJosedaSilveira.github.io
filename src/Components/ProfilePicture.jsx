@@ -1,7 +1,7 @@
 function ProfilePicture() {
   return (
-    <div >
-      <img src="../Data/profilePicture.jpg" alt="Leonardo" />
+    <div>
+      <img src="../Data/profilePicture.jpg" alt=" " />
     </div>
   )
 }
