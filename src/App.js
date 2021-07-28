@@ -1,5 +1,5 @@
 import logo from './logo.svg';
-import React from 'react';
+import React from 'react'; 
 import './Css/App.css';
 import ProfilePicture from './Components/ProfilePicture'
 import ProfileDescription from './Components/ProfileDescription'
@@ -7,9 +7,9 @@ import ProfileDescription from './Components/ProfileDescription'
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-      <ProfilePicture/>
+      <ProfilePicture />
       <ProfileDescription/>
+      <header className="App-header">
 
         <img src={logo} className="App-logo" alt="logo" />
         <p>
