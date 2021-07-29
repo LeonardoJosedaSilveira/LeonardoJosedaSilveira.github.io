@@ -1,10 +1,16 @@
 import logo from './logo.svg';
-import './App.css';
+import React from 'react'; 
+import './Css/App.css';
+import ProfilePicture from './Components/ProfilePicture'
+import ProfileDescription from './Components/ProfileDescription'
 
 function App() {
   return (
     <div className="App">
+      <ProfilePicture />
+      <ProfileDescription/>
       <header className="App-header">
+
         <img src={logo} className="App-logo" alt="logo" />
         <p>
         Editing
