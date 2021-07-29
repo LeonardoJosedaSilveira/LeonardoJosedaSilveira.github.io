@@ -1,8 +1,8 @@
 import profilePicture from '../Data/profilePicture.jpg'
 function ProfilePicture() {
   return (
-    <figure className="profile-picture" >
-      <img src={ profilePicture } alt=" " />
+    <figure  >
+      <img className="profile-picture" src={ profilePicture } alt=" " />
     </figure>
   )
 }

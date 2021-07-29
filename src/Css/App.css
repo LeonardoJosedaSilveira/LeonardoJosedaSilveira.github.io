@@ -7,6 +7,9 @@
   pointer-events: none;
 }
 
+.profile-picture {
+  max-height: 200px;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -38,6 +41,4 @@
   }
 }
 
-.profile-picture {
-  max-height: 200px;
-}
+
