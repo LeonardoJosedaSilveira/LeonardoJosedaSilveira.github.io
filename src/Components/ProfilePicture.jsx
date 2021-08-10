@@ -1,4 +1,4 @@
-import profilePicture from '../Data/profilePicture.jpg'
+import profilePicture from '../Assets/profilePicture.jpg'
 function ProfilePicture() {
   return (
     <figure  >
