@@ -1,8 +1,8 @@
-const describe = 'I am very calm, I practice Shotokan Karate, I like games, technology, I rollerblade, I fish. I am learning Full Stack Web Development by TRYBE but I have that appreciation for the Back-End.'
+import { Description } from '../Data'
 function ProfileDescription() {
   return (
-    <div>
-      <p>{ describe }</p>
+    <div className='text-description'>
+      <p>{ Description }</p>
     </div>
   )
 }

@@ -1,31 +1,15 @@
-import logo from './logo.svg';
 import React from 'react'; 
 import './Css/App.css';
-import ProfilePicture from './Components/ProfilePicture'
-import ProfileDescription from './Components/ProfileDescription'
+import Header from './Components/Header';
 import CarouselContainer from './Components/CarouselContainer'
+import Footer from './Components/Footer'
 
 function App() {
   return (
-    <div className="App">
-      <ProfilePicture />
-      <ProfileDescription/>
+    <div className='FirstContainer'>
+      <Header />
       <CarouselContainer />
-      <header className="App-header">
-
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-        Editing
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Footer />
     </div>
   );
 }
