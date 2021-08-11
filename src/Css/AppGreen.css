@@ -2,12 +2,14 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: #5fe6b957;
   overflow: hidden;
+  background: linear-gradient(90deg,
+  rgba(2,0,36,1) 0%, rgba(19,238,2,1) 100%, rgba(27,124,0,1) 100%);
 }
 
 .FirstContainer {
-  background-color: #5fe6b957;
+  background: linear-gradient(87deg,
+  rgba(2,0,36,1) 0%, rgba(19,238,2,1) 100%, rgba(27,124,0,1) 100%);
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -24,7 +26,8 @@
   background-color: #8cb7a8;
   width: 98%;
   margin-top: 1vh;
-  
+  background: linear-gradient(229deg,
+  rgba(2,0,36,1) 0%, rgba(19,238,2,1) 0%, rgba(27,124,0,1) 100%);
 }
 
 .Carousel {
@@ -36,14 +39,15 @@
 
 .Footer {
   display: flex;
-  justify-content:space-around;
+  justify-content: space-around;
   align-items: center;
-  background-color: #8cb7a8;
   height: 8vh;
   width: 98%;
   margin-top: 1vh;
   margin-bottom: 0.7vh;
   box-shadow: 0px 0px 5px 0px black;
+  background: linear-gradient(268deg,
+  rgba(2,0,36,1) 0%, rgba(19,238,2,1) 0%, rgb(1 1 29) 100%);
 }
 
 .FooterItem {
@@ -64,6 +68,8 @@
 
 .text-description {
   box-shadow: 0px 0px 5px 0px black;
+  background: linear-gradient(184deg,
+  rgba(2,0,36,1) 0%, rgba(19,238,2,1) 0%, rgb(1 1 29) 100%);
 }
 
 /* Small devices (tablets, 768px and up) */
