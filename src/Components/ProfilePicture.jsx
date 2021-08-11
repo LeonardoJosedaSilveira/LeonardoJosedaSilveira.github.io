@@ -1,8 +1,8 @@
-import profilePicture from '../Data/profilePicture.jpg'
+import { profileImg } from '../Assets'
 function ProfilePicture() {
   return (
     <figure  >
-      <img className="profile-picture" src={ profilePicture } alt=" " />
+      <img className="profile-picture" src={ profileImg } alt="Leonardo" />
     </figure>
   )
 }
