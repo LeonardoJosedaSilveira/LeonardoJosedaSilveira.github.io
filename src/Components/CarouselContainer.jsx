@@ -11,7 +11,6 @@ function CardProject() {
           alt={ project.title  }
         />
         <Carousel.Caption>
-          {/* <a href={ project.link } alt='{ project.title }'> */}
           <a href={ project.link }>
             <h3>{ project.title }</h3>
           </a>
