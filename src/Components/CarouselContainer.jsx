@@ -10,7 +10,7 @@ function CardProject() {
           src={ project.srcImg }
           alt={ project.title  }
         />
-        <Carousel.Caption>
+        <Carousel.Caption className='text-description-box'>
           <a href={ project.link }>
             <h3>{ project.title }</h3>
           </a>
@@ -23,7 +23,7 @@ function CardProject() {
 const CarouselContainer = () => {
   return (
     <div className='Carousel'>
-      <Carousel fade={true} slide={false} indicators={ false } >
+      <Carousel fade={true} indicators={ false } >
         { CardProject() }
       </Carousel>
     </div>
