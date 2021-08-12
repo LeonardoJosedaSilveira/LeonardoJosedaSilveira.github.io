@@ -23,8 +23,7 @@
   text-align: center;
   background-color: #8cb7a8;
   width: 98%;
-  margin-top: 1vh;
-  
+  margin-top: 1vh;  
 }
 
 .Carousel {
@@ -64,6 +63,28 @@
 
 .text-description {
   box-shadow: 0px 0px 5px 0px black;
+}
+
+.text-description-box {
+  background-color: #8cb7a8d9;
+  border-radius: 3vh;
+  border: solid 1vh #749a8d;
+  color: black !important;
+}
+
+.carousel-control-next, .carousel-control-prev,
+.carousel-control-next:hover, .carousel-control-prev:hover {
+  color: #375249 !important;
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon {
+  background-color: #375249 !important;
+  border-radius: 3vh;
+  border: solid 0.3vh #375249;
+}
+
+a {
+  color: #375249 !important;
 }
 
 /* Small devices (tablets, 768px and up) */
