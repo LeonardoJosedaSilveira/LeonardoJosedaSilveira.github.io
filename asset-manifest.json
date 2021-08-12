@@ -1,24 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.383fa19c.chunk.css",
-    "main.js": "/static/js/main.75247d03.chunk.js",
-    "main.js.map": "/static/js/main.75247d03.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.90572fe3.js",
-    "runtime-main.js.map": "/static/js/runtime-main.90572fe3.js.map",
-    "static/js/2.d81a8000.chunk.js": "/static/js/2.d81a8000.chunk.js",
-    "static/js/2.d81a8000.chunk.js.map": "/static/js/2.d81a8000.chunk.js.map",
-    "static/js/3.30fd3564.chunk.js": "/static/js/3.30fd3564.chunk.js",
-    "static/js/3.30fd3564.chunk.js.map": "/static/js/3.30fd3564.chunk.js.map",
+    "main.css": "/static/css/main.6bde08f1.chunk.css",
+    "main.js": "/static/js/main.332b3c08.chunk.js",
+    "main.js.map": "/static/js/main.332b3c08.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.341523e5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.341523e5.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.ee4da831.chunk.js": "/static/js/2.ee4da831.chunk.js",
+    "static/js/2.ee4da831.chunk.js.map": "/static/js/2.ee4da831.chunk.js.map",
+    "static/js/3.637803c9.chunk.js": "/static/js/3.637803c9.chunk.js",
+    "static/js/3.637803c9.chunk.js.map": "/static/js/3.637803c9.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.383fa19c.chunk.css.map": "/static/css/main.383fa19c.chunk.css.map",
-    "static/js/2.d81a8000.chunk.js.LICENSE.txt": "/static/js/2.d81a8000.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.6bde08f1.chunk.css.map": "/static/css/main.6bde08f1.chunk.css.map",
+    "static/js/2.ee4da831.chunk.js.LICENSE.txt": "/static/js/2.ee4da831.chunk.js.LICENSE.txt",
+    "static/media/github.ce02960d.png": "/static/media/github.ce02960d.png",
+    "static/media/instagram.ac32ec0a.png": "/static/media/instagram.ac32ec0a.png",
+    "static/media/linkedin.032cf8a6.png": "/static/media/linkedin.032cf8a6.png",
     "static/media/profilePicture.0cec152d.jpg": "/static/media/profilePicture.0cec152d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.90572fe3.js",
-    "static/js/2.d81a8000.chunk.js",
-    "static/css/main.383fa19c.chunk.css",
-    "static/js/main.75247d03.chunk.js"
+    "static/js/runtime-main.341523e5.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.ee4da831.chunk.js",
+    "static/css/main.6bde08f1.chunk.css",
+    "static/js/main.332b3c08.chunk.js"
   ]
 }
